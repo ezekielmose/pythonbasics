@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Alvine\PycharmProjects\pythonMastery\main.py", line 299, in <module>
+    raise Exception("Error Occurred")
+Exception: Error Occurred
